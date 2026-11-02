@@ -1,0 +1,466 @@
+[
+ {
+  "key": "beige-trench-coat",
+  "name": "Beige Trench Coat",
+  "brand": "Gewon",
+  "price": 9000000,
+  "stock": null,
+  "category": "outer",
+  "sizeSet": "c",
+  "tag": "New",
+  "colors": [
+   "#c8b69a",
+   "#111",
+   "#6f6f6f"
+  ],
+  "images": [
+   "1782565196771-0cb993248c1f"
+  ],
+  "description": "A long, relaxed trench in soft beige with a storm flap and a belted waist. Layers over anything.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 0
+ },
+ {
+  "key": "blue-denim-jacket",
+  "name": "Blue Denim Jacket",
+  "brand": "Gewon",
+  "price": 4750000,
+  "stock": null,
+  "category": "outer",
+  "sizeSet": "c",
+  "tag": "",
+  "colors": [
+   "#1b2540",
+   "#111"
+  ],
+  "images": [
+   "dark-denim-jacket"
+  ],
+  "description": "A classic trucker cut in washed denim. Structured shoulders, a slightly cropped body.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 1
+ },
+ {
+  "key": "black-leather-jacket",
+  "name": "Black Leather Jacket",
+  "brand": "Gewon",
+  "price": 13500000,
+  "stock": null,
+  "category": "outer",
+  "sizeSet": "c",
+  "tag": "Limited",
+  "colors": [
+   "#111",
+   "#3a2a20"
+  ],
+  "images": [
+   "1512068549487-5e79d74c7fc3"
+  ],
+  "description": "A sharp biker silhouette in supple leather. Breaks in beautifully with wear.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 2
+ },
+ {
+  "key": "black-zip-hoodie",
+  "name": "Black Zip Hoodie",
+  "brand": "Gewon",
+  "price": 3500000,
+  "stock": null,
+  "category": "tops",
+  "sizeSet": "c",
+  "tag": "Best seller",
+  "colors": [
+   "#111",
+   "#6f6f6f",
+   "#33414a"
+  ],
+  "images": [
+   "1556821840-3a63f95609a7"
+  ],
+  "description": "Heavyweight fleece with a full zip and a roomy hood. Our everyday layer.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 3
+ },
+ {
+  "key": "white-crew-tee",
+  "name": "White Crew Tee",
+  "brand": "Gewon",
+  "price": 1700000,
+  "stock": null,
+  "category": "tops",
+  "sizeSet": "c",
+  "tag": "",
+  "colors": [
+   "#f4f4f4",
+   "#111",
+   "#6f6f6f"
+  ],
+  "images": [
+   "1620799139834-6b8f844fbe61"
+  ],
+  "description": "A boxy, heavy cotton tee that holds its shape wash after wash.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 4
+ },
+ {
+  "key": "brown-knit-bag",
+  "name": "Brown Knit Bag",
+  "brand": "Gewon",
+  "price": 3750000,
+  "stock": null,
+  "category": "acc",
+  "sizeSet": "a",
+  "tag": "New",
+  "colors": [
+   "#6b4f3a"
+  ],
+  "images": [
+   "1543334270-305dab05a6ab"
+  ],
+  "description": "A chunky, textured knit handbag in warm brown. Soft to the touch, easy to carry every day.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 5
+ },
+ {
+  "key": "utility-cargo-pants",
+  "name": "Utility Cargo Pants",
+  "brand": "Gewon",
+  "price": 4625000,
+  "stock": null,
+  "category": "bottoms",
+  "sizeSet": "b",
+  "tag": "New",
+  "colors": [
+   "#7a6a52",
+   "#111",
+   "#4a5a4a"
+  ],
+  "images": [
+   "1644955734676-9f24f7d4f929"
+  ],
+  "description": "A wide-leg cargo with deep pockets and an easy drape. Built for movement.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 6
+ },
+ {
+  "key": "blue-denim-jeans",
+  "name": "Blue Denim Jeans",
+  "brand": "Gewon",
+  "price": 4125000,
+  "stock": null,
+  "category": "bottoms",
+  "sizeSet": "b",
+  "tag": "",
+  "colors": [
+   "#3f5878",
+   "#111"
+  ],
+  "images": [
+   "1605518215584-5ba74df5dfd8"
+  ],
+  "description": "A straight-leg jean in rigid denim, cut to sit right at the waist.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 7
+ },
+ {
+  "key": "converse-chuck-taylor-all-star-lift-bows-studs",
+  "name": "Converse Chuck Taylor All Star Lift Bows & Studs",
+  "brand": "Gewon",
+  "price": 2200000,
+  "stock": null,
+  "category": "shoes",
+  "sizeSet": "s",
+  "tag": "New",
+  "colors": [
+   "#8fa9c0",
+   "#f4f4f4",
+   "#111"
+  ],
+  "images": [
+   "converse-lift-bows-side",
+   "converse-lift-bows-top"
+  ],
+  "description": "Chuck Taylor All Star Lift in dusty blue canvas on a chunky platform sole, finished with tiny black bows and silver studs along the laces.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 8
+ },
+ {
+  "key": "leather-lace-up-boots",
+  "name": "Leather Lace-Up Boots",
+  "brand": "Gewon",
+  "price": 7250000,
+  "stock": null,
+  "category": "shoes",
+  "sizeSet": "s",
+  "tag": "",
+  "colors": [
+   "#111",
+   "#6b4f3a"
+  ],
+  "images": [
+   "1576967913877-5b6e6108eead",
+   "1626432424546-104e5fdbe556"
+  ],
+  "description": "Full-grain leather boots with a lugged sole. Available in black and brown.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 9
+ },
+ {
+  "key": "black-everyday-tote",
+  "name": "Black Everyday Tote",
+  "brand": "Gewon",
+  "price": 1875000,
+  "stock": null,
+  "category": "acc",
+  "sizeSet": "a",
+  "tag": "",
+  "colors": [
+   "#111",
+   "#d6d6d6"
+  ],
+  "images": [
+   "1572196284554-4e321b0e7e0b"
+  ],
+  "description": "A roomy tote with reinforced handles. Fits a laptop and then some.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 10
+ },
+ {
+  "key": "two-tone-baseball-cap",
+  "name": "Two-Tone Baseball Cap",
+  "brand": "Gewon",
+  "price": 1125000,
+  "stock": null,
+  "category": "acc",
+  "sizeSet": "a",
+  "tag": "New",
+  "colors": [
+   "#111",
+   "#f4f4f4",
+   "#33414a"
+  ],
+  "images": [
+   "1620327467532-6ebaca6273ed"
+  ],
+  "description": "A soft six-panel cap with a curved brim and an adjustable strap.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 11
+ },
+ {
+  "key": "peach-bunny-hoodie",
+  "name": "Peach Bunny Hoodie",
+  "brand": "Gewon",
+  "price": 1950000,
+  "stock": null,
+  "category": "tops",
+  "sizeSet": "c",
+  "tag": "New",
+  "colors": [
+   "#a8774a",
+   "#111"
+  ],
+  "images": [
+   "bunny-peach-hoodie"
+  ],
+  "description": "A soft fleece hoodie in warm caramel with a tiny bunny-and-peach print on the chest. Cosy, playful, easy to wear.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 12
+ },
+ {
+  "key": "bear-pom-pom-hoodie",
+  "name": "Bear Pom-Pom Hoodie",
+  "brand": "Gewon",
+  "price": 2400000,
+  "stock": null,
+  "category": "tops",
+  "sizeSet": "c",
+  "tag": "New",
+  "colors": [
+   "#e6d3b3",
+   "#7a5238"
+  ],
+  "images": [
+   "bear-pompom-hoodie"
+  ],
+  "description": "A two-tone fleece hoodie with an embroidered bear, a roomy kangaroo pocket and fluffy pom-pom drawstrings.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 13
+ },
+ {
+  "key": "black-quilted-bucket-hat",
+  "name": "Black Quilted Bucket Hat",
+  "brand": "Gewon",
+  "price": 1200000,
+  "stock": null,
+  "category": "acc",
+  "sizeSet": "a",
+  "tag": "",
+  "colors": [
+   "#111"
+  ],
+  "images": [
+   "black-bucket-hat"
+  ],
+  "description": "A lightweight bucket hat with diagonal stitch lines and a slim band. Wide brim for sun and light rain.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 14
+ },
+ {
+  "key": "smiley-baseball-cap",
+  "name": "Smiley Baseball Cap",
+  "brand": "Gewon",
+  "price": 800000,
+  "stock": null,
+  "category": "acc",
+  "sizeSet": "a",
+  "tag": "New",
+  "colors": [
+   "#f4f4f4",
+   "#111",
+   "#f0b9b4"
+  ],
+  "images": [
+   "smiley-baseball-cap"
+  ],
+  "description": "A soft cotton cap with a small embroidered smile. Curved brim, adjustable strap, three easy colours.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 15
+ },
+ {
+  "key": "charcoal-boxy-tee",
+  "name": "Charcoal Boxy Tee",
+  "brand": "Gewon",
+  "price": 1550000,
+  "stock": null,
+  "category": "tops",
+  "sizeSet": "c",
+  "tag": "",
+  "colors": [
+   "#5b5b58"
+  ],
+  "images": [
+   "charcoal-boxy-tee"
+  ],
+  "description": "A heavyweight cotton tee in washed charcoal with a boxy cut and a clean ribbed collar. A quiet everyday basic.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 16
+ },
+ {
+  "key": "wide-leg-raw-hem-jeans",
+  "name": "Wide-Leg Raw-Hem Jeans",
+  "brand": "Gewon",
+  "price": 3950000,
+  "stock": null,
+  "category": "bottoms",
+  "sizeSet": "b",
+  "tag": "New",
+  "colors": [
+   "#274a7a"
+  ],
+  "images": [
+   "wide-leg-raw-hem-jeans"
+  ],
+  "description": "High-rise jeans in deep indigo denim with a long wide leg and an unfinished hem. Lengthens the line.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 17
+ },
+ {
+  "key": "black-leather-derby-shoes",
+  "name": "Black Leather Derby Shoes",
+  "brand": "Gewon",
+  "price": 5250000,
+  "stock": null,
+  "category": "shoes",
+  "sizeSet": "s",
+  "tag": "",
+  "colors": [
+   "#111"
+  ],
+  "images": [
+   "black-derby-shoes"
+  ],
+  "description": "Classic lace-up derbies in smooth black leather with a low block heel. Smart enough for work, easy enough for daily wear.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 18
+ },
+ {
+  "key": "nike-air-jordan-1-low-obsidian-suede",
+  "name": "Nike Air Jordan 1 Low Obsidian Suede",
+  "brand": "Gewon",
+  "price": 3950000,
+  "stock": null,
+  "category": "shoes",
+  "sizeSet": "s",
+  "tag": "Limited",
+  "colors": [
+   "#1b2540",
+   "#f4f4f4"
+  ],
+  "images": [
+   "navy-suede-low-sneakers"
+  ],
+  "description": "Nike Air Jordan 1 Low in obsidian suede with white leather panels and a gold Jumpman accent. A sharp upgrade on everyday kicks.",
+  "warranty": "",
+  "imageUrl": "",
+  "active": true,
+  "isSample": false,
+  "sort": 19
+ }
+]
