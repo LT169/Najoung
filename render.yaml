@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: gewon-site
+    runtime: node
+    plan: free
+    buildCommand: "echo no build"
+    startCommand: "node server.js"
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: ADMIN_USER
+        value: admin
+      - key: ADMIN_PASS
+        sync: false   # nhập mật khẩu (>= 8 ký tự) trong giao diện Render

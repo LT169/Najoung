@@ -1,0 +1,10 @@
+{
+  "name": "gewon-site",
+  "version": "1.0.0",
+  "description": "Cửa hàng Gewon + khu vực nhân viên, nối với nhau bằng một server Node.js (không cần cài thư viện).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
